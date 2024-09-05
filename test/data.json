@@ -1,0 +1,34 @@
+{
+    "Data": [{
+        "Employee": {
+        "FirstName": "TestName1",
+        "LastName":"Test",
+        "DateOfBirth": "12Sept1994",
+        "StartDate":"20July2021",
+        "Department":"QA", 
+        "JobTitle":"DevOps", 
+        "Email":"TestName1@gmail.com", 
+        "Mobile":"6789043223567", 
+        "Address":"4/45 Ruby Road",
+        "BaseSalary":"130000"
+    }},
+    {
+        "Employee":{
+        "FirstName": "TestName2",
+        "LastName":"Tester",
+        "DateOfBirth": "17Aug1990",
+        "StartDate":"11Jan2022",
+        "Department":"Dev", 
+        "JobTitle":"Developer", 
+        "Email":"TestName2@gmail.com", 
+        "Mobile":"12346789009876", 
+        "Address":"6/234 Villa Road",
+        "BaseSalary":"120000"
+    }},
+    {
+        "dummyId":"12344566789999"
+    }
+]
+    
+      
+}
