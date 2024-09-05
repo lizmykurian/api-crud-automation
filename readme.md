@@ -13,8 +13,9 @@ Before running the tests, make sure you have the following installed:
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/api-swagger-automation.git
-   cd api-swagger-automation/src
+   git clone https://github.com/lizmykurian/api-crud-automation.git
+
+   cd api-crud-automation
 
 2. Install the necessary dependencies:
 
